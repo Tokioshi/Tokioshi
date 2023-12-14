@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tokioshy</h1>
-<h3 align="center">A young man studying programming languages</h3>
+<h3 align="center">A 16 years old kid who trying to learn programming</h3>
 
-- 🔭 I’m currently working on **portofolio**
+- 🔭 I’m currently working on **Portofolio**
 
 - 🌱 I’m currently learning **React, Bootstrap, Tailwind-CSS**
 
