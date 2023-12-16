@@ -4,4 +4,4 @@ I'm Tokioshy (Please read it Tokioshi not Tokioshay). I was in the high school, 
 
 I currently learning Golang, Javascript, Java, HTML & CSS, Bootstrap, React, Tailwind-CSS, NodeJS and MongoDB.
 
-<p align="center"><a href="https://discord.com/users/1010474132753883207" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/1010474132753883207" alt="Tokioshy" /></a></p>
+Contact me: Tokioshy@pm.me
